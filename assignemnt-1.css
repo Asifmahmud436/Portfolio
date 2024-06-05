@@ -1,0 +1,78 @@
+.banner-container{
+    margin-left: 30px;
+    /* height: 30px; */
+}
+
+body{
+    background-color: black;
+    margin: 20px;
+}
+/* img{
+    height: 400px;
+} */
+
+.logo{
+    width: 100px;
+}
+
+i{
+    padding-right: 10px;    
+}
+
+.b-img{
+    height: 300px;
+}
+
+.paragraph-part-carousel{
+    margin-left: 10px;
+}
+
+h1{
+    margin-bottom:30px;
+}
+.box-borders{
+    border: 2px solid grey;
+    padding: 5px;
+    border-radius: 8px;
+    background-color: rgb(132, 158, 158);
+    margin-right: 5px;
+}
+.carousel-1{
+    margin-bottom: 20px;
+    border: 2px solid grey;
+    border-radius: 8px;
+    padding: 10px;
+}
+.carousel-2{
+    margin-bottom: 80px;
+    border: 2px solid grey;
+    border-radius: 8px;
+    padding: 10px;
+
+}
+
+header{
+    margin-bottom: 30px;
+}
+
+.last-body-part{
+    margin:80px;
+}
+
+.My-education{
+    padding-top: 100px;
+}
+.form{
+    margin-left: 200px;
+    margin-right: 200px;
+    border: 2px solid whitesmoke;
+    padding-left: 20px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    border-radius: 8px;
+}
+
+.logos{
+    margin-left: 355px;
+    
+}
